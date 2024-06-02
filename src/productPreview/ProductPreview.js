@@ -9,7 +9,7 @@ const Productpreview =(props) =>{
         {
             props.showHeartBeatSection ? 
                 <div className={classes.HeartBeatSection}>
-                    < box-icon  name='heart' type='solid'  color='red' size="35px"></box-icon>
+                    < box-icon  name='heart' type='solid'  color='red' size="30px"></box-icon>
                 <p >78</p>
                </div> 
                :

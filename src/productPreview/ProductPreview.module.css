@@ -15,26 +15,30 @@
     left: 50%;
     transform: translate(-50%, -50%);
     color:white;
-    font-size: 35px;
+    font-size: 20px;
+    margin-left: 0px;
+    margin-right: 5px;
   
   }
   .HeartBeatSection{
     position: absolute;
-    top: 53%;
+    top: 59%;
     left: 50%;
     transform: translate(-50%, -50%);
     color:white;
-    font-size: 35px;  
+    font-size: 30px;  
   }
   .HeartBeatSection >  box-icon {
     color: red;
     animation: beat 1s infinite;
     margin-top: 10px;
     margin-left: 5px;
+    
   }
   .HeartBeatSection > p{
-    margin-left: 3px;
+    margin-left: 7px;
     margin-top: 0px;
+    font-size: 22px;
   }
   @keyframes beat {
     0% {
