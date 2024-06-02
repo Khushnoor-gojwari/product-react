@@ -1,0 +1,96 @@
+
+
+
+.MainContainer{
+padding: 4% 0%;
+margin-top: 32px;
+width: 100%;
+display: flex;
+align-items: center;
+}
+
+
+
+
+
+
+
+/* @media screen and (max-width:577px) {
+  .HeartBeatSection{
+    position: absolute;
+    top: 52%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 20px;  
+    
+    
+  }
+  .HeartBeatSection >  box-icon {
+    color: red;
+    animation: beat 1s infinite;
+    
+    margin-left: -2px;
+  }
+  .HeartBeatSection > p {
+    margin-left: 4.5px;
+  }
+  
+  .TimeSection{
+    position: absolute;
+    top: 52%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 20px;
+  }
+} */
+/* @media screen and (min-width:768px) and (max-width:900) {
+  .HeartBeatSection{
+    position: absolute;
+    top: 50%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 20px;  
+    
+  }
+  .TimeSection{
+    position: absolute;
+    top: 44%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    color:white;
+    font-size: 25px;
+    margin-top: -10px;
+  }
+  .box-icon{
+    margin-top: 10px;
+  }
+.p1{
+  margin-top: 5px;
+}
+
+} */
+/* @media screen and (min-width:1150px){
+
+    .HeartBeatSection{
+      position: absolute;
+      top: 55%;
+      left: 25%;
+      transform: translate(-50%, -50%);
+      color:white;
+      font-size: 30px;  
+      
+      
+    }
+    .HeartBeatSection >  box-icon {
+      color: red;
+      animation: beat 1s infinite;
+      
+      margin-left: 1px;
+    }
+    .HeartBeatSection > p {
+      margin-left: 1px;
+    }
+  } */

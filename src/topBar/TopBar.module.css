@@ -1,0 +1,25 @@
+.header{
+    height: auto;
+    width: 100%;
+    background-color: rgb(23, 56, 79);
+    position: fixed;
+    z-index: 1000;
+    top: 0px;
+    left: 0px;
+  }
+  .topbar{
+    display: flex;
+    margin-left: 10%;
+  }
+  .imga1{
+    padding-top: 10px;
+    height: 50px;
+    width: auto;
+    padding-bottom: 10px;
+  
+  }
+  .h31{
+    font-size: 20px;
+    color: rgb(226, 158, 69);
+    padding-left: 20px;
+  }
